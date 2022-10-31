@@ -1,0 +1,58 @@
+{
+  "8Queens": {
+    "title" : "8 Queens",
+    "urls": ["/board.js", "/index.js", "/spot.js"],
+    "description" : "8 Queens Solver"
+  },
+  "2D-Ray-Tracing": {
+    "title" : "2D Ray Tracing",
+    "urls": ["/boundary.js", "/particle.js", "/ray.js", "/sketch.js"],
+    "description" : "2D Ray Tracing"
+  },
+  "Astar": {
+    "title" : "A *",
+    "urls": ["/index.js"],
+    "description" : "A* Path finder "
+  },
+  "Connect4": {
+    "title" : "Connect 4 ",
+    "urls": ["/board.js", "/index.js"],
+    "description" : "Connect 4 Game"
+  },
+  "FlappyBird": {
+    "title" : "Flappy Bird",
+    "urls": ["/bird.js", "/index.js", "/walls.js"],
+    "description" : "Flappy Bird Game"
+  },
+  "FractalTreeAnimation": {
+    "title" : "Fractal Tree Animation",
+    "urls": ["/branch.js", "/index.js", "/tree.js"],
+    "description" : "Fractal Tree Animation"
+  },
+  "FractalTreeNew": {
+    "title" : "Fractal Tree New",
+    "urls": ["/branch.js", "/index.js", "/tree.js"],
+    "description" : "Fractal Tree New"
+  },
+  "GameOfLife": {
+    "title" : "Game Of Life",
+    "urls": ["/index.js"],
+    "description" : "Game Of Life"
+  },
+  "MazeGen": {
+    "title" : "Maze Generation",
+    "urls": ["/cell.js", "/index.js"],
+    "description" : "Maze Generation"
+  },
+  "MineSweeper": {
+    "title" : "Mine Sweeper",
+    "urls": ["/cell.js", "/index.js"],
+    "description" : "Mine Sweeper"
+  },
+  "SnakeGame": {
+    "title" : "Snake Game",
+    "urls": ["/Grid.js", "/index.js"],
+    "description" : "Snake Game"
+  }
+  
+}
